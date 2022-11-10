@@ -6,3 +6,6 @@
 #06: browserify script.js > bundel.js
 
 
+***!!!! WATCH LAST PART FOR USING FUNCTIONS FROM PACKAGE.JSON
+
+
