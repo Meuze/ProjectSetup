@@ -1,0 +1,8 @@
+#01: npm init 
+#02: npm install -g live-server
+#03: live-server
+#04: npm install lodash 
+#05: npm install -g browserify
+#06: browserify script.js > bundel.js
+
+
